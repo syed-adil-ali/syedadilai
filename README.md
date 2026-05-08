@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Syed Adil Ali</h1>
 
 <h3 align="center">A Passionate Frontend Developer From India 🇮🇳</h3>
