@@ -1,3 +1,4 @@
+![logo] (https://github.com/syed-adil-ali/syedadilai/blob/main/4363a6d3-d2b7-4119-af26-909784a0194f.png)
 <h1 align="center">Hi 👋, I'm Syed Adil Ali</h1>
 
 <h3 align="center">A Passionate Frontend Developer From India 🇮🇳</h3>
